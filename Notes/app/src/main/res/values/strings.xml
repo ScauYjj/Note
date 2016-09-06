@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="item_01">隐藏已完成</string>
+    <string name="item_02">优先级排序</string>
+    <string name="item_03">发送</string>
+    <string name="open">OPEN</string>
+    <string name="close">CLOSE</string>
+    <string name="activity_color">颜色</string>
+</resources>

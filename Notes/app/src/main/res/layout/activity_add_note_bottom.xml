@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:background="@color/add_note_bottom_background"
+    android:layout_height="48dp">
+
+    <LinearLayout
+        android:id="@+id/ll_remind"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/iv_remind"
+            android:layout_width="30dp"
+            android:layout_height="match_parent"
+            android:src="@mipmap/remind"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_favor"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/iv_favor"
+            android:layout_width="30dp"
+            android:layout_height="match_parent"
+            android:src="@mipmap/favor"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_list"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/iv_list"
+            android:layout_width="30dp"
+            android:layout_height="match_parent"
+            android:src="@mipmap/list"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_voice"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/iv_voice"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@mipmap/voice"/>
+
+    </LinearLayout>
+
+</LinearLayout>

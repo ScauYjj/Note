@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#38a6ff</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#76c2ff</color>
+    <color name="accent">#303F9F</color>
+    <color name="accent_pressed">#1E90FF</color>
+    <color name="add_note_bottom_background">#F2F2F2</color>
+    <color name="black">#000000</color>
+    <color name="text_gray">#8A8A8A</color>
+
+    <color name="red_normal">#FF0000</color>
+    <color name="red_pressed">#FF6666</color>
+
+    <!-- 卡片分隔颜色-->
+    <color name="black_divider">#dbdbdb</color>
+
+    <!-- 弹出框文字 -->
+    <color name="tab_textColor_pop_choicce">#444444</color>
+    <color name="tab_textColor_pop_cancel">#686868</color>
+    <color name="bg_pop_selected">#efefef</color>
+
+    <!-- 主页底部文字 -->
+    <color name="tab_textColor_selected">#26a4ed</color>
+    <color name="tab_textColor_unselected">#686868</color>
+
+    <!-- 灰色调背景    主页背景颜色 -->
+    <color name="main_bg">#f6f6f6</color>
+</resources>
